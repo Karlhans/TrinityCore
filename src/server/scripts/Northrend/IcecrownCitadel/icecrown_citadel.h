@@ -384,10 +384,10 @@ enum AchievementCriteriaIds
     CRITERIA_DANCES_WITH_OOZES_25H      = 12983,
 
     // Professor Putricide
-    CRITERIA_NAUSEA_10N                 = 12987,
-    CRITERIA_NAUSEA_25N                 = 12968,
-    CRITERIA_NAUSEA_10H                 = 12988,
-    CRITERIA_NAUSEA_25H                 = 12981,
+    CRITERIA_NAUSEA_10N                 = 12984,
+    CRITERIA_NAUSEA_25N                 = 12966,
+    CRITERIA_NAUSEA_10H                 = 12985,
+    CRITERIA_NAUSEA_25H                 = 12983,
 
     // Blood Prince Council
     CRITERIA_ORB_WHISPERER_10N          = 13033,
